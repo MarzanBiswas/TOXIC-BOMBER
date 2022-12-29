@@ -100,7 +100,12 @@ pkg update && pkg upgrade && pkg install python && pkg install python2 && pip in
 
 
 
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
+
+
 <p align="center">𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐁𝐘<a href="https://www.facebook.com/ArifHasNaiN.official"> 𝐀 𝐑 𝐈 𝐅</a> </p>
+
 
 
 <div align="center">
