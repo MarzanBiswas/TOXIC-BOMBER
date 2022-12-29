@@ -1,4 +1,12 @@
 <p align="center">
+    <img src=".img/Banner.png">
+</p>
+
+
+
+
+
+<p align="center">
  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 </p>
  
