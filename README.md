@@ -28,7 +28,7 @@
 - 𝙵𝚛𝚒𝚜𝚝 𝚊𝚕𝚕 `𝙲𝚘𝚙𝚢` 𝚊𝚗𝚍 `𝚃𝚎𝚛𝚖𝚞𝚡` 𝙿𝚊𝚜𝚝 𝚊𝚗𝚍 ` 𝙴𝚗𝚝𝚎𝚛 `
 
 
-- 𝚄𝚙𝚍𝚊𝚝𝚎 𝚈𝚘𝚞𝚛 `𝙿𝚊𝚌𝚔𝚊𝚐𝚎` -
+- 𝚄𝚙𝚍𝚊𝚝𝚎 𝚈𝚘𝚞𝚛 `𝙿𝚊𝚌𝚔𝚊𝚐𝚎`
 
 ```
 pkg update 
@@ -36,7 +36,7 @@ pkg update
 ```
 pkg upgrade 
 ```
-- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 `𝙿𝚢𝚝𝚑𝚘𝚗` -
+- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 `𝙿𝚢𝚝𝚑𝚘𝚗`
 
 ```
 pkg install python 
@@ -45,7 +45,6 @@ pkg install python
 ```
 pkg install git 
 ```
-
 ```
 pip install requests
 ```
@@ -53,28 +52,24 @@ pip install requests
 ```
 rm -rf ARIF-BOMBER
 ```
-
 ``𝙸𝚗𝚜𝚝𝚊𝚕𝚕 ARIF-BOMBER``
 
-- 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 -
+- 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢
 ```
 git clone https://github.com/T0XIC-CYBER/ARIF-BOMBER
 ```
-
 - 𝙲𝚑𝚊𝚗𝚐𝚎 𝚝𝚘 𝚌𝚕𝚘𝚗𝚎𝚍 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚛𝚞𝚗 `Bomber.py` -
+
+- ``𝚁𝚞𝚗 𝚃𝚘𝚘𝚕𝚜``
 ```
 cd ARIF-BOMBER
 ```
 ```
 python Bomber.py
 ```
-
-
-``𝙎𝙞𝙣𝙜𝙡𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙``
+- ``𝙎𝙞𝙣𝙜𝙡𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙``
 ```
-
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/ARIF-BOMBER && cd ARIF-BOMBER && python Bomber.py
-
 ```
 
 
@@ -85,7 +80,7 @@ pkg update && pkg upgrade && pkg install python && pkg install python2 && pip in
 </p>
 <br>
 
-> CONTACT WITH ME :
+> 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄 :
 
 <p align="left">
 
@@ -98,7 +93,9 @@ pkg update && pkg upgrade && pkg install python && pkg install python2 && pip in
 <a href="https://www.youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-`    Follow My GitHub...↩️   `
+
+
+```    Follow My GitHub...↩️   ```
 
 
 
