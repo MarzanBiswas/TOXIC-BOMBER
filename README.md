@@ -50,26 +50,26 @@ pip install requests
 ```
 - `𝙵𝚒𝚛𝚜𝚝 𝚛𝚎𝚖𝚘𝚟𝚎 𝚘𝚕𝚍 𝚌𝚕𝚘𝚗𝚎𝚍 𝚏𝚒𝚕𝚎`
 ```
-rm -rf ARIF-BOMBER
+rm -rf TOXIC-BOMBER
 ```
-``𝙸𝚗𝚜𝚝𝚊𝚕𝚕 ARIF-BOMBER``
+``𝙸𝚗𝚜𝚝𝚊𝚕𝚕 TOXIC-BOMBER``
 
 - 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢
 ```
-git clone https://github.com/T0XIC-CYBER/ARIF-BOMBER
+git clone https://github.com/T0XIC-CYBER/TOXIC-BOMBER
 ```
-- 𝙲𝚑𝚊𝚗𝚐𝚎 𝚝𝚘 𝚌𝚕𝚘𝚗𝚎𝚍 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚛𝚞𝚗 `Bomber.py` -
+- 𝙲𝚑𝚊𝚗𝚐𝚎 𝚝𝚘 𝚌𝚕𝚘𝚗𝚎𝚍 𝚍𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚛𝚞𝚗 `BOMBER` -
 
 - ``𝚁𝚞𝚗 𝚃𝚘𝚘𝚕𝚜``
 ```
-cd ARIF-BOMBER
+cd TOXIC-BOMBER
 ```
 ```
-python Bomber.py
+python BOMBER
 ```
 - ``𝙎𝙞𝙣𝙜𝙡𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙``
 ```
-pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/ARIF-BOMBER && cd ARIF-BOMBER && python Bomber.py
+pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/TOXIC-BOMBER && cd TOXIC-BOMBER && python BOMBER
 ```
 
 
