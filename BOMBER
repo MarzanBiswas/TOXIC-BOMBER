@@ -2,4 +2,4 @@ import os
 
 os.chdir('.Main')
 
-os.system('python Bomber.py')
+os.system('python Limit.py')
